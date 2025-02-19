@@ -1,7 +1,5 @@
 <h3 align="center">A passionate software engineer who has majored in information systems in software engineer.</h3>
 
-- 🌱 I’m currently learning **Machine learning**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ha223dp](https://github.com/ha223dp)
 
 - 📫 How to reach me **hossein.esmat@gmail.com**
