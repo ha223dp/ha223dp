@@ -1,4 +1,4 @@
-<h3 align="center">A passionate software engineer who has majored in information systems in software engineer.</h3>
+<h3 align="center">An upcoming software engineer who has majored in information systems in software engineer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ha223dp](https://github.com/ha223dp)
 
