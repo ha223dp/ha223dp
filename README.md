@@ -2,7 +2,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ha223dp](https://github.com/ha223dp)
 
-- 📫 How to reach me **hossein.esmat@gmail.com**
+- 📫 How to reach me **hossein.esmat@gmail.com** 
 
 - 📄 Know about my experiences [https://www.hosseinamer.com/](https://www.hosseinamer.com/)
 
