@@ -65,5 +65,5 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha223dp&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha223dp&layout=compact&theme=tokyonight&hide=html,css&langs_count=8)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ha223dp&show_icons=true&theme=tokyonight)
