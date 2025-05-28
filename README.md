@@ -1,4 +1,4 @@
-<h3 align="center">An upcoming software engineer who has majored in information systems.</h3>
+<h3 align="center">An upcoming software engineer who has majored in information systems and software engineering.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ha223dp](https://github.com/ha223dp)   
 - 📫 How to reach me: **hossein.esmat@gmail.com**  
